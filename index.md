@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/masonicus/masonicus.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[editor on GitHub](https://github.com/masonicus/masonicus.github.io/edit/master/index.md) I don't really know how I want to change this stuff. I'm not sure it matters.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
